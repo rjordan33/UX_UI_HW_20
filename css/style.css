@@ -1,0 +1,50 @@
+
+.display-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+.my-4 {
+    border-color: white;
+    width: 75%;
+}
+.display-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 50%;
+}
+.rounded {
+    padding-bottom: 5%;
+}
+.date {
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-size: 20px;
+    color: white;    
+    }
+body {
+    background: black !important;
+}
+p {
+    color: white;
+}
+
+h5 {
+    color: white;
+    line-height: 1.65;
+}
+h2 {
+    color: white;
+}
