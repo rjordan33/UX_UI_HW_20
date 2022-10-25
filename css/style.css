@@ -48,3 +48,34 @@ h5 {
 h2 {
     color: white;
 }
+.inline-block {
+    display: flex;
+    flex-direction: row;
+    vertical-align: top;
+    width: 100%;
+    justify-content: space-between; 
+     
+ }
+.logo {
+    padding:1%;
+  
+    text-align: center;
+}
+.navItems {
+ padding: 10px;
+ padding-right: 75px;
+ display:flex;
+ flex-direction: column;
+ 
+}
+.navContainer {
+    display: flex;
+    align-items: center;  
+    padding-right:50px;
+      color: white !important;
+}
+.navigation {
+    width: 100vw;
+    background-color: black;
+  
+}
